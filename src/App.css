@@ -1,7 +1,29 @@
 .App {
   text-align: center;
+  color: cadetblue;
+  background-color: aliceblue;
+  width: 30%;
+  height: 100%;
+  margin-left: 35%;
+  font-size: medium;
+  font-style:unset;
+  border-radius: 5%;
+  border-color: #617db4;
+  border-width: 5px;
+  border-style: double;
 }
+img{
+  width: 25%;
+  height: 25%;
+}
+button{
+  margin: 10px;
+  color:rgb(0, 80, 253) ;
+  background-color: rgb(68, 149, 241);
+  width: 20%;
+  height: 5%;
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
