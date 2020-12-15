@@ -12,6 +12,11 @@
   border-width: 5px;
   border-style: double;
 }
+.forGroups{
+  width: 150px;
+  height: 100px;
+  margin-top: 20px;
+}
 img{
   width: 25%;
   height: 25%;
